@@ -28,6 +28,18 @@ Yank marks `a`, `c`, and `b`  into the `a` register
 
     :YankMarks acb a
 
+Installation
+------------
+
+Any package manager or vim's native package management can be used to install
+this plugin.
+
+#### Vim-Plug
+
+```vim
+Plug 'dhazel/yank-marks.vim'
+```
+
 Inspired By
 -----------
 
